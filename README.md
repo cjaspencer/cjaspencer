@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjaspencer
-- 👀 I’m interested in Character Creation, animation, and rigging.
+- 👀 I’m interested in 3D Character Creation, Animation, and Rigging.
 - 🌱 I’m currently learning Advanced Rigging techniques, C#, Unity
 - 💞️ I’m looking to collaborate on Rigging Characters for your Games, Animations, Products, etc.
 - 📫 How to reach me is though email @ cjaspencer@gmail.com
